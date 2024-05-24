@@ -2,7 +2,7 @@
 This repository was born out of the need to create OpenCV numpy 2-D array representing
 an RGB image out of a sequence of color gradient values stored as an 1-D array.
 
-There are following questions with answers on stackoverlog related to this topic:
+There are following questions with answers on stackoverflow related to this topic:
 
 
 Algorithm for transformation of an 1-D-gradient into a special form of a 2-D-gradient :
